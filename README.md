@@ -175,3 +175,5 @@ networks:
   nginx-network:
     driver: bridge
 ```
+
+<img width="1470" alt="Screenshot 2024-10-30 at 4 24 28 PM" src="https://github.com/user-attachments/assets/94be9e0b-16c8-42bb-9160-66296e7d3d37">
