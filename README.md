@@ -2,6 +2,8 @@
 
 This repository contains the solution for the DevOps Internship Challenge assignment. The project consists of a Dockerized application with an Nginx web server and a Python Flask backend. This README explains the issues found in the initial setup, debugging steps, and the changes made to ensure the application runs correctly.
 
+This is written by MCP
+
 ## Project Structure
 
 ```
@@ -176,7 +178,6 @@ networks:
     driver: bridge
 ```
 
-<img width="1470" alt="Screenshot 2024-10-30 at 4 24 28 PM" src="https://github.com/user-attachments/assets/94be9e0b-16c8-42bb-9160-66296e7d3d37">
-<img width="1470" alt="Screenshot 2024-10-30 at 4 25 08 PM" src="https://github.com/user-attachments/assets/100e9a7b-89a5-49c6-9658-17834ff3da03">
-<img width="1470" alt="Screenshot 2024-10-30 at 4 25 21 PM" src="https://github.com/user-attachments/assets/72eb2077-5bdb-40c5-bb11-22a60fe998ca">
-
+<img width="1470" alt="Screenshot 2024-10-30 at 4 24 28 PM" src="https://github.com/user-attachments/assets/94be9e0b-16c8-42bb-9160-66296e7d3d37">
+<img width="1470" alt="Screenshot 2024-10-30 at 4 25 08 PM" src="https://github.com/user-attachments/assets/100e9a7b-89a5-49c6-9658-17834ff3da03">
+<img width="1470" alt="Screenshot 2024-10-30 at 4 25 21 PM" src="https://github.com/user-attachments/assets/72eb2077-5bdb-40c5-bb11-22a60fe998ca">
